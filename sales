@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archbrook</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aguafina+Script">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400|Roboto:300,400,700">
+    <link rel="stylesheet" href="assets/css/Brands.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Features-Boxed.css">
+    <link rel="stylesheet" href="assets/css/Footer-Clean.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="assets/css/Hero-Technology.css">
+    <link rel="stylesheet" href="assets/css/Map-Clean.css">
+    <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+    <link rel="stylesheet" href="assets/css/Projects-Horizontal.css">
+    <link rel="stylesheet" href="assets/css/sticky-dark-top-nav-with-dropdown.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/Testimonials.css">
+</head>
+
+<body style="background-color:rgb(255,255,255);">
+    <nav class="navbar navbar-light navbar-expand-md navbar-fixed-top navigation-clean-button" style="padding-bottom:0px;background-color:rgb(55,55,55);margin-bottom:0px;color:rgb(92,92,92);">
+        <div class="container"><a class="navbar-brand" href="#"><span><img src="assets/img/523b90f7-615f-425c-b71e-4c82408cafff.png" style="margin-bottom:-51px;margin-top:-64px;"></span> </a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div
+                class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav nav-right">
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.html" style="color:rgba(255,255,255,0.79);">Home</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="about.html" style="color:rgba(255,255,255,0.79);">About</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="sales.html" style="color:rgba(255,255,255,0.82);">Services</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact.html" style="color:rgba(255,255,255,0.81);">Contact</a></li>
+                </ul>
+        </div>
+        </div>
+    </nav>
+    <div style="margin-top:113px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h1 style="margin-bottom:56px;"><i class="fa fa-check" style="padding-right:auto;"></i>Basic</h1>
+                    <p style="margin-bottom:9px;">An elegant website with three add-on pages.</p>
+                    <h1>$250</h1>
+                    <p>Just the basics, four pages and:</p>
+                    <ul>
+                        <li>1 Mo. Hosting ($14.95 each additional month)</li>
+                        <li>Google Analytics</li>
+                    </ul><a href="contact.html">Contact me</a></div>
+                <div class="col-md-4">
+                    <h1 style="margin-bottom:56px;"><i class="fa fa-check" style="padding-right:auto;"></i>Professional</h1>
+                    <p style="margin-bottom:29px;margin-top:10px;">Everything you need to get your business online.&nbsp;</p>
+                    <h1 style="margin-bottom:40px;margin-top:-6px;">$1,000</h1>
+                    <p style="margin-bottom:31px;">The professional package comes with ten pages for your website and:</p>
+                    <ul>
+                        <li>Hosting and Domain</li>
+                        <li>Custom Logo</li>
+                        <li>Custom Theme Development</li>
+                        <li>Competitive Analysis</li>
+                        <li>Google Analytics</li>
+                        <li>1 Yr. Ongoing Site Maintenance</li>
+                        <li>SEO Analysis</li>
+                    </ul><a href="contact.html">Contact me</a></div>
+                <div class="col-md-4">
+                    <h1 style="margin-bottom:56px;"><i class="fa fa-check" style="padding-right:auto;"></i>Business</h1>
+                    <p>A cut above the rest.</p>
+                    <p></p>
+                    <h1>$500</h1>
+                    <p>Seven pages and:</p>
+                    <ul>
+                        <li>Hosting and Domain</li>
+                        <li>Google Analytics</li>
+                        <li>6 Mo. Site Maintenance</li>
+                        <li>SEO Analysis</li>
+                    </ul><a href="contact.html">Contact me</a></div>
+            </div>
+        </div>
+    </div>
+    <div style="margin-bottom:116px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="text-center" style="margin-top:138px;margin-bottom:61px;">Supporting Services</h1>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <h2>Strategy &amp; Planning</h2>
+                    <h3>$85</h3>
+                    <p>&nbsp; &nbsp; &nbsp; &nbsp;We will personally set up a plan for you to follow that will give your business the online presence that it needs.</p>
+                    <p>&nbsp; &nbsp; &nbsp; &nbsp;This will be ongoing strategies to keep your business at the top of everyones' list. Giving your business social media sites and linking it all together.</p><a href="contact.html">Contact me</a></div>
+                <div
+                    class="col-md-3">
+                    <h2>Execution</h2>
+                    <h3 style="margin-bottom:17px;margin-top:41px;">$200 a Month</h3>
+                    <p>&nbsp; &nbsp; &nbsp; &nbsp;This is for the entrepreneur that needs all the time they can get. We will put your plan into action. Building social media presence and implementing a marketing plan through Adwords.</p><a href="contact.html">Contact me</a></div>
+            <div
+                class="col-md-3">
+                <h2>Training</h2>
+                <h3 style="margin-bottom:18px;margin-top:37px;">$100</h3>
+                <p>&nbsp; &nbsp; &nbsp; &nbsp;In house personal training on how to do:</p>
+                <ul>
+                    <li>Social Media</li>
+                    <li>Marketing</li>
+                    <li>Site Maintenence</li>
+                </ul><a href="contact.html">Contact me</a></div>
+        <div class="col-md-3">
+            <h2>Emergency</h2>
+            <h3 style="margin-top:43px;margin-bottom:11px;">$150</h3>
+            <p style="margin-top:0px;">&nbsp; &nbsp; &nbsp; &nbsp;I am ready to help when you need it the most. Site crash? Maintenence issues that need immediate attention? Let me take care of it.&nbsp;</p><a href="contact.html">Contact me</a></div>
+    </div>
+    </div>
+    </div>
+    <div class="footer-clean" style="background-color:rgb(55,55,55);">
+        <footer>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-sm-4 col-md-3 item">
+                        <a href="about.html">
+                            <h3>About</h3>
+                        </a>
+                    </div>
+                    <div class="col-sm-4 col-md-3 item" style="color:rgb(255,255,255);">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="https://bootstrapstudio.io/app/?shell=4#">Web Design</a><br></li>
+                            <li><a href="https://bootstrapstudio.io/app/?shell=4#">M</a>arketing<br></li>
+                            <li><a href="https://bootstrapstudio.io/app/?shell=4#">Hosting</a><br></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 item social"><a href="https://www.facebook.com/thearchbrook/?modal=admin_todo_tour" target="_blank"><i class="icon ion-social-facebook"></i></a><a href="https://twitter.com/StevenMNoyes?lang=en" target="_blank"><i class="icon ion-social-twitter"></i></a>
+                        <a
+                            href="http://www.github.com/SteveNoyes" target="_blank"><i class="icon ion-social-github"></i></a>
+                            <p class="copyright" style="color:rgb(255,255,255);">The Archbrook © 2018</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/bs-animation.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+</body>
+
+</html>
