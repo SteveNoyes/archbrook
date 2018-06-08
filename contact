@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archbrook</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aguafina+Script">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400|Roboto:300,400,700">
+    <link rel="stylesheet" href="assets/css/Brands.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Features-Boxed.css">
+    <link rel="stylesheet" href="assets/css/Footer-Clean.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="assets/css/Hero-Technology.css">
+    <link rel="stylesheet" href="assets/css/Map-Clean.css">
+    <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+    <link rel="stylesheet" href="assets/css/Projects-Horizontal.css">
+    <link rel="stylesheet" href="assets/css/sticky-dark-top-nav-with-dropdown.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/Testimonials.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md navbar-fixed-top navigation-clean-button" style="padding-bottom:0px;background-color:rgb(55,55,55);margin-bottom:0px;color:rgb(92,92,92);">
+        <div class="container"><a class="navbar-brand" href="#"><span><img src="assets/img/523b90f7-615f-425c-b71e-4c82408cafff.png" style="margin-bottom:-51px;margin-top:-64px;"></span> </a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div
+                class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav nav-right">
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.html" style="color:rgba(255,255,255,0.79);">Home</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="about.html" style="color:rgba(255,255,255,0.79);">About</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="sales.html" style="color:rgba(255,255,255,0.82);">Services</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="contact.html" style="color:rgba(255,255,255,0.81);">Contact</a></li>
+                </ul>
+        </div>
+        </div>
+    </nav>
+    <div class="contact-clean" style="background-color:rgb(255,255,255);">
+        <form action="https://formspree.io/stevenmnoyes.af@gmail.com" method="post" style="background-color:rgb(255,255,255);">
+            <h2 class="text-center">Contact us for a free quote</h2>
+            <div class="form-group"><input class="form-control" type="text" name="name" placeholder="Name"></div>
+            <div class="form-group"><input class="form-control is-invalid" type="email" name="email" placeholder="Email"><small class="form-text text-danger">Please enter a correct email address.</small></div>
+            <div class="form-group"><textarea class="form-control" rows="14" name="message" placeholder="Message"></textarea></div>
+            <div class="form-group"><button class="btn btn-primary" type="submit">send </button></div>
+        </form>
+    </div>
+    <div class="footer-clean" style="background-color:rgb(55,55,55);">
+        <footer>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-sm-4 col-md-3 item">
+                        <a href="about.html">
+                            <h3>About</h3>
+                        </a>
+                    </div>
+                    <div class="col-sm-4 col-md-3 item" style="color:rgb(255,255,255);">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="https://bootstrapstudio.io/app/?shell=4#">Web Design</a><br></li>
+                            <li><a href="https://bootstrapstudio.io/app/?shell=4#">M</a>arketing<br></li>
+                            <li><a href="https://bootstrapstudio.io/app/?shell=4#">Hosting</a><br></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 item social"><a href="https://www.facebook.com/thearchbrook/?modal=admin_todo_tour" target="_blank"><i class="icon ion-social-facebook"></i></a><a href="https://twitter.com/StevenMNoyes?lang=en" target="_blank"><i class="icon ion-social-twitter"></i></a>
+                        <a
+                            href="http://www.github.com/SteveNoyes" target="_blank"><i class="icon ion-social-github"></i></a>
+                            <p class="copyright" style="color:rgb(255,255,255);">The Archbrook © 2018</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/bs-animation.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+</body>
+
+</html>
